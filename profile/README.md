@@ -5,7 +5,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/SigmaSwap_org)
 [![Discord](https://img.shields.io/discord/991216384317075477?color=black&label=discord&logo=discord)](https://discord.gg/EEZSTCsu)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/+Ll1bT_Mi3Gc3Nzg1)
+[![Feedbacks](https://img.shields.io/badge/-feedbacks-yellow)](https://sigmaswap.hellonext.co/)
 ![GitHub](https://img.shields.io/github/license/SigmaSwap/Profile.README)
+
 
 
 ---
