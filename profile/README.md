@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/+Ll1bT_Mi3Gc3Nzg1)
 [![Feedbacks](https://img.shields.io/badge/-feedbacks-blue)](https://sigmaswap.hellonext.co/)
 ![GitHub](https://img.shields.io/github/license/SigmaSwap/.github)
-[![Twitter](https://img.shields.io/twitter/SigmaSwap_org?color=black&label=twitter&logo=twitter&style=flat-square)](https://twitter.com/SigmaSwap_org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SigmaSwap_org?color=black&label=twitter&logo=twitter&style=flat-square)](https://twitter.com/SigmaSwap_org)
 ---
 
 
